@@ -6,7 +6,7 @@
  *
  * @package scm_test
  */
-get_header();
+
 ?>
 
 <div id="primary" class="content-area">
